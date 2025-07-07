@@ -9,7 +9,7 @@ This Tutorial is going to show the basic set up Of a Virtual Provate network.<br
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/)
+- Microsoft Azure (Virtual Machines)
 - Remote Desktop
 -VPN Services
 
