@@ -4,7 +4,7 @@
 </p>
 
 <h1>VPN - How to install a Virtual Private network</h1>
-This Tutorial is going to show the basic set up Of a Virtual Provate network.<br />
+This Tutorial is going to show the basic set up Of a Virtual Private network.<br />
 
 
 <h2>Environments and Technologies Used</h2>
