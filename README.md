@@ -41,7 +41,7 @@ The first Step is to create a Virtual machine inside of Microsoft Azure. I used 
 
 
 <p>
-
+<img width="667" height="851" alt="Image" src="https://github.com/user-attachments/assets/578e28b0-75ea-40b0-8b9a-c9b3bb9d119a" />
 
 The next step is to set a A profile without a VPN activated. This is so The computer will show you what it looks like Before you activate the VPN. Once done head to VPN Proton and set Up an account there to begin setting Up the VPN
 
