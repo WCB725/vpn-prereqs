@@ -55,5 +55,5 @@ The next step is to set a A profile without a VPN activated. This is so The comp
 </p>
 <br />  ![image](https://github.com/user-attachments/assets/43975bc5-29ed-41b3-9ab8-19cc37521086)
 
-If done Correct you can go back and See your IP Address and Location has been changed showing you have succsefully created a VPN and now your internet connection would be more secure and safe from anyone trying to hack you or damage your internet connection
+If done Correctly you can go back and See your IP Address and Location has been changed showing you have succsefully created a VPN and now your internet connection would be more secure and safe from anyone trying to hack you or damage your internet connection
 
