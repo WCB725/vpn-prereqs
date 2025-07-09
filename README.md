@@ -1,7 +1,8 @@
 # vpn-prereqs
 <p align="center">
 
-</p>
+</p> ![image](https://github.com/user-attachments/assets/c3d93208-131b-4226-899d-8a6980719569)
+
 
 <h1>VPN - How to install a Virtual Private network</h1>
 This Tutorial is going to show the basic set up Of a Virtual Private network.<br />
@@ -42,7 +43,7 @@ The first Step is to create a Virtual machine inside of Microsoft Azure. I used 
 <p>
 ![image](https://github.com/user-attachments/assets/346746df-1c29-4bb9-ae8a-0bc1eb06cb9f)
 
-The next step is to set a A profile without a VPN activated. This is so The computer will show you what it looks like Before you activate the VPN.Once done head to VPN Proton and set Up an account
+The next step is to set a A profile without a VPN activated. This is so The computer will show you what it looks like Before you activate the VPN. Once done head to VPN Proton and set Up an account there to begin setting Up the VPN
 
 
 
@@ -54,5 +55,5 @@ The next step is to set a A profile without a VPN activated. This is so The comp
 </p>
 <br />  ![image](https://github.com/user-attachments/assets/43975bc5-29ed-41b3-9ab8-19cc37521086)
 
-If done Right you can go back and See your IP Address and Location has been changed showing you have succsefully created a VPN
+If done Correct you can go back and See your IP Address and Location has been changed showing you have succsefully created a VPN and now your internet connection would be more secure and safe from anyone trying to hack you or damage your internet connection
 
