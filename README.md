@@ -1,6 +1,6 @@
 # vpn-prereqs
 <p align="center">
-
+<img width="661" height="389" alt="Image" src="https://github.com/user-attachments/assets/b6a3cda9-b755-4a86-b5d8-48aa6f91f023" />
 </p> 
 
 
