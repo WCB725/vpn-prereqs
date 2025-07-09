@@ -48,7 +48,7 @@ The next step is to set a A profile without a VPN activated. This is so The comp
 
 
 <p>
-
+<img width="634" height="611" alt="Image" src="https://github.com/user-attachments/assets/7ec2b377-a296-455b-a92d-1872e45f81c3" />
 
 </p> After going to the Proton VPN and setting it up it should change your location and IP Address making your connection more secure and creating a virtual tunnel for you. 
 
