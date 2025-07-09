@@ -29,32 +29,30 @@ Prerequisites
 
 <p>
 
-![image](https://github.com/user-attachments/assets/2be10863-0e14-4d33-b4a4-1f9caeb586db)
+![image](https://github.com/user-attachments/assets/ccd6917d-0ea5-44e8-8766-96f2f87b438b)
+
 
 
 </p>
 The first Step is to create a Virtual machine inside of Microsoft Azure. I used a Windows Virutal machine For this Project.
 <p>
 
-</p>
-<br />
+
 
 <p>
 ![image](https://github.com/user-attachments/assets/346746df-1c29-4bb9-ae8a-0bc1eb06cb9f)
 
+The next step is to set a A profile without a VPN activated. This is so The computer will show you what it looks like Before you activate the VPN.Once done head to VPN Proton and set Up an account
 
 
-</p>
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/2fc5482b-cfc8-4ef8-997c-f1be2a834da3)
+
+</p> After going to the Proton VPN and setting it up it should change your location and IP Address making your connection more secure and creating a virtual tunnel for you. 
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<br />  ![image](https://github.com/user-attachments/assets/43975bc5-29ed-41b3-9ab8-19cc37521086)
+
+If done Right you can go back and See your IP Address and Location has been changed showing you have succsefully created a VPN
+
