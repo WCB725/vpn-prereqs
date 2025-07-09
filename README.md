@@ -53,7 +53,7 @@ The next step is to set a A profile without a VPN activated. This is so The comp
 </p> After going to the Proton VPN and setting it up it should change your location and IP Address making your connection more secure and creating a virtual tunnel for you. 
 
 </p>
-<br />  
+<br />  <img width="668" height="738" alt="Image" src="https://github.com/user-attachments/assets/bd0a8fc7-0778-47d4-bdcb-d21add63ca3a" />
 
 If done Correctly you can go back and See your IP Address and Location has been changed showing you have succsefully created a VPN and now your internet connection would be more secure and safe from anyone trying to hack you or damage your internet connection
 
