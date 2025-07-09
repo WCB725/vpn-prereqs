@@ -15,15 +15,15 @@ This Tutorial is going to show the basic set up Of a Virtual Provate network.<br
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> 
 
-<h2>List of Prerequisites</h2>
+Prerequisites
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Internet connecton
+- Microsoft azure
+- Virtual machine inside azure
+
+
 
 <h2>Installation Steps</h2>
 
